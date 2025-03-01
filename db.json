@@ -1,0 +1,180 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Kódminőség és fejlesztési szemlélet",
+      "description": "Tiszta kód, dokumentáció és fejlesztési filozófia",
+      "lang": "hu"
+    },
+    {
+      "id": "2",
+      "name": "Mentális erő és fejlődés",
+      "description": "Fejlődés, tanulás és motiváció a szakmában",
+      "lang": "hu"
+    },
+    {
+      "id": "3",
+      "name": "Problémamegoldás és hatékonyság",
+      "description": "Hogyan oldjunk meg hatékonyan problémákat",
+      "lang": "hu"
+    }
+  ],
+  "cards": [
+    {
+      "uid": "c1",
+      "created": "2025-03-01T10:00:00Z",
+      "updated": null,
+      "color": "#FF5733",
+      "title": "Egy jó fejlesztő nem az, aki soha nem hibázik",
+      "description": "Hogyan kezeled a hibáidat? Tanulsz belőlük, vagy csak gyorsan továbblépsz?",
+      "lang": "hu",
+      "sides": [
+        {
+          "id": "cs1",
+          "created": "2025-03-01T10:00:00Z",
+          "updated": null,
+          "header": "Inspiráló gondolat",
+          "text": "Egy jó fejlesztő nem az, aki soha nem hibázik, hanem az, aki gyorsan és hatékonyan javítja a hibáit.",
+          "imageUrl": "",
+          "lang": "hu",
+          "side": "front"
+        },
+        {
+          "id": "cs2",
+          "created": "2025-03-01T10:00:00Z",
+          "updated": null,
+          "header": "Kapcsolódó kérdés",
+          "text": "Hogyan kezeled a hibáidat? Tanulsz belőlük, vagy csak gyorsan továbblépsz?",
+          "imageUrl": "",
+          "lang": "hu",
+          "side": "back"
+        }
+      ],
+      "categories": [
+        {
+          "id": "3",
+          "name": "Problémamegoldás és hatékonyság"
+        }
+      ],
+      "active": true,
+      "public": true
+    },
+    {
+      "uid": "c2",
+      "created": "2025-03-01T10:00:00Z",
+      "updated": null,
+      "color": "#337FFF",
+      "title": "A tökéletes kód nem létezik",
+      "description": "Ha egy hónap múlva elolvasnád a most írt kódodat, értenéd, mit csinál?",
+      "lang": "hu",
+      "sides": [
+        {
+          "id": "cs3",
+          "created": "2025-03-01T10:00:00Z",
+          "updated": null,
+          "header": "Inspiráló gondolat",
+          "text": "A tökéletes kód nem létezik, de a tiszta és érthető kód mindig előny.",
+          "imageUrl": "",
+          "lang": "hu",
+          "side": "front"
+        },
+        {
+          "id": "cs4",
+          "created": "2025-03-01T10:00:00Z",
+          "updated": null,
+          "header": "Kapcsolódó kérdés",
+          "text": "Ha egy hónap múlva elolvasnád a most írt kódodat, értenéd, mit csinál?",
+          "imageUrl": "",
+          "lang": "hu",
+          "side": "back"
+        }
+      ],
+      "categories": [
+        {
+          "id": "1",
+          "name": "Kódminőség és fejlesztési szemlélet"
+        }
+      ],
+      "active": true,
+      "public": true
+    },
+    {
+      "uid": "c3",
+      "created": "2025-03-01T10:00:00Z",
+      "updated": null,
+      "color": "#FF33A8",
+      "title": "A fejlesztés nem sprint, hanem maraton",
+      "description": "Hogyan kezeled a kiégést és a folyamatos fejlődést?",
+      "lang": "hu",
+      "sides": [
+        {
+          "id": "cs5",
+          "created": "2025-03-01T10:00:00Z",
+          "updated": null,
+          "header": "Inspiráló gondolat",
+          "text": "A fejlesztés nem sprint, hanem maraton – vigyázz az energiádra.",
+          "imageUrl": "",
+          "lang": "hu",
+          "side": "front"
+        },
+        {
+          "id": "cs6",
+          "created": "2025-03-01T10:00:00Z",
+          "updated": null,
+          "header": "Kapcsolódó kérdés",
+          "text": "Hogyan kezeled a kiégést és a folyamatos fejlődést?",
+          "imageUrl": "",
+          "lang": "hu",
+          "side": "back"
+        }
+      ],
+      "categories": [
+        {
+          "id": "2",
+          "name": "Mentális erő és fejlődés"
+        }
+      ],
+      "active": true,
+      "public": true
+    },
+    {
+      "uid": "c4",
+      "created": "2025-03-01T10:00:00Z",
+      "updated": null,
+      "color": "#33FFA5",
+      "title": "Ha egy probléma túl bonyolultnak tűnik",
+      "description": "Mi az első apró lépés, amit ma megtehetsz egy nehéz problémára?",
+      "lang": "hu",
+      "sides": [
+        {
+          "id": "cs7",
+          "created": "2025-03-01T10:00:00Z",
+          "updated": null,
+          "header": "Inspiráló gondolat",
+          "text": "Ha egy probléma túl bonyolultnak tűnik, bontsd kisebb részekre, és kezdd az első lépéssel.",
+          "imageUrl": "",
+          "lang": "hu",
+          "side": "front"
+        },
+        {
+          "id": "cs8",
+          "created": "2025-03-01T10:00:00Z",
+          "updated": null,
+          "header": "Kapcsolódó kérdés",
+          "text": "Mi az első apró lépés, amit ma megtehetsz egy nehéz problémára?",
+          "imageUrl": "",
+          "lang": "hu",
+          "side": "back"
+        }
+      ],
+      "categories": [
+        {
+          "id": "3",
+          "name": "Problémamegoldás és hatékonyság"
+        }
+      ],
+      "active": true,
+      "public": true
+    }
+  ]
+}
