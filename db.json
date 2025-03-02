@@ -24,28 +24,29 @@
       "uid": "c1",
       "created": "2025-03-01T10:00:00Z",
       "updated": null,
-      "color": "#FF5733",
       "title": "Egy jó fejlesztő nem az, aki soha nem hibázik",
       "description": "Hogyan kezeled a hibáidat? Tanulsz belőlük, vagy csak gyorsan továbblépsz?",
       "lang": "hu",
       "sides": [
         {
-          "id": "cs1",
+          "uid": "cs1",
           "created": "2025-03-01T10:00:00Z",
           "updated": null,
           "header": "Inspiráló gondolat",
           "text": "Egy jó fejlesztő nem az, aki soha nem hibázik, hanem az, aki gyorsan és hatékonyan javítja a hibáit.",
           "imageUrl": "",
+          "color": "#FF5733",
           "lang": "hu",
           "side": "front"
         },
         {
-          "id": "cs2",
+          "uid": "cs2",
           "created": "2025-03-01T10:00:00Z",
           "updated": null,
           "header": "Kapcsolódó kérdés",
           "text": "Hogyan kezeled a hibáidat? Tanulsz belőlük, vagy csak gyorsan továbblépsz?",
           "imageUrl": "",
+          "color": "#FF5733",
           "lang": "hu",
           "side": "back"
         }
@@ -63,28 +64,29 @@
       "uid": "c2",
       "created": "2025-03-01T10:00:00Z",
       "updated": null,
-      "color": "#337FFF",
       "title": "A tökéletes kód nem létezik",
       "description": "Ha egy hónap múlva elolvasnád a most írt kódodat, értenéd, mit csinál?",
       "lang": "hu",
       "sides": [
         {
-          "id": "cs3",
+          "uid": "cs3",
           "created": "2025-03-01T10:00:00Z",
           "updated": null,
           "header": "Inspiráló gondolat",
           "text": "A tökéletes kód nem létezik, de a tiszta és érthető kód mindig előny.",
           "imageUrl": "",
+          "color": "#337FFF",
           "lang": "hu",
           "side": "front"
         },
         {
-          "id": "cs4",
+          "uid": "cs4",
           "created": "2025-03-01T10:00:00Z",
           "updated": null,
           "header": "Kapcsolódó kérdés",
           "text": "Ha egy hónap múlva elolvasnád a most írt kódodat, értenéd, mit csinál?",
           "imageUrl": "",
+          "color": "#337FFF",
           "lang": "hu",
           "side": "back"
         }
@@ -102,28 +104,29 @@
       "uid": "c3",
       "created": "2025-03-01T10:00:00Z",
       "updated": null,
-      "color": "#FF33A8",
       "title": "A fejlesztés nem sprint, hanem maraton",
       "description": "Hogyan kezeled a kiégést és a folyamatos fejlődést?",
       "lang": "hu",
       "sides": [
         {
-          "id": "cs5",
+          "uid": "cs5",
           "created": "2025-03-01T10:00:00Z",
           "updated": null,
           "header": "Inspiráló gondolat",
           "text": "A fejlesztés nem sprint, hanem maraton – vigyázz az energiádra.",
           "imageUrl": "",
+          "color": "#FF33A8",
           "lang": "hu",
           "side": "front"
         },
         {
-          "id": "cs6",
+          "uid": "cs6",
           "created": "2025-03-01T10:00:00Z",
           "updated": null,
           "header": "Kapcsolódó kérdés",
           "text": "Hogyan kezeled a kiégést és a folyamatos fejlődést?",
           "imageUrl": "",
+          "color": "#FF33A8",
           "lang": "hu",
           "side": "back"
         }
@@ -141,28 +144,29 @@
       "uid": "c4",
       "created": "2025-03-01T10:00:00Z",
       "updated": null,
-      "color": "#33FFA5",
       "title": "Ha egy probléma túl bonyolultnak tűnik",
       "description": "Mi az első apró lépés, amit ma megtehetsz egy nehéz problémára?",
       "lang": "hu",
       "sides": [
         {
-          "id": "cs7",
+          "uid": "cs7",
           "created": "2025-03-01T10:00:00Z",
           "updated": null,
           "header": "Inspiráló gondolat",
           "text": "Ha egy probléma túl bonyolultnak tűnik, bontsd kisebb részekre, és kezdd az első lépéssel.",
           "imageUrl": "",
+          "color": "#33FFA5",
           "lang": "hu",
           "side": "front"
         },
         {
-          "id": "cs8",
+          "uid": "cs8",
           "created": "2025-03-01T10:00:00Z",
           "updated": null,
           "header": "Kapcsolódó kérdés",
           "text": "Mi az első apró lépés, amit ma megtehetsz egy nehéz problémára?",
           "imageUrl": "",
+          "color": "#33FFA5",
           "lang": "hu",
           "side": "back"
         }
