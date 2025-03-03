@@ -22,6 +22,7 @@
   "cards": [
     {
       "uid": "c1",
+      "id": "c1",
       "created": "2025-03-01T10:00:00Z",
       "updated": null,
       "title": "Egy jó fejlesztő nem az, aki soha nem hibázik",
@@ -30,6 +31,7 @@
       "sides": [
         {
           "uid": "cs1",
+          "id": "cs1",
           "created": "2025-03-01T10:00:00Z",
           "updated": null,
           "header": "Inspiráló gondolat",
@@ -41,6 +43,7 @@
         },
         {
           "uid": "cs2",
+          "id": "cs2",
           "created": "2025-03-01T10:00:00Z",
           "updated": null,
           "header": "Kapcsolódó kérdés",
@@ -62,6 +65,7 @@
     },
     {
       "uid": "c2",
+      "id": "c2",
       "created": "2025-03-01T10:00:00Z",
       "updated": null,
       "title": "A tökéletes kód nem létezik",
@@ -70,6 +74,7 @@
       "sides": [
         {
           "uid": "cs3",
+          "id": "cs3",
           "created": "2025-03-01T10:00:00Z",
           "updated": null,
           "header": "Inspiráló gondolat",
@@ -81,6 +86,7 @@
         },
         {
           "uid": "cs4",
+          "id": "cs4",
           "created": "2025-03-01T10:00:00Z",
           "updated": null,
           "header": "Kapcsolódó kérdés",
@@ -102,6 +108,7 @@
     },
     {
       "uid": "c3",
+      "id": "c3",
       "created": "2025-03-01T10:00:00Z",
       "updated": null,
       "title": "A fejlesztés nem sprint, hanem maraton",
@@ -110,6 +117,7 @@
       "sides": [
         {
           "uid": "cs5",
+          "id": "cs5",
           "created": "2025-03-01T10:00:00Z",
           "updated": null,
           "header": "Inspiráló gondolat",
@@ -121,6 +129,7 @@
         },
         {
           "uid": "cs6",
+          "id": "cs6",
           "created": "2025-03-01T10:00:00Z",
           "updated": null,
           "header": "Kapcsolódó kérdés",
@@ -142,6 +151,7 @@
     },
     {
       "uid": "c4",
+      "id": "c4",
       "created": "2025-03-01T10:00:00Z",
       "updated": null,
       "title": "Ha egy probléma túl bonyolultnak tűnik",
@@ -150,6 +160,7 @@
       "sides": [
         {
           "uid": "cs7",
+          "id": "cs7",
           "created": "2025-03-01T10:00:00Z",
           "updated": null,
           "header": "Inspiráló gondolat",
@@ -161,6 +172,7 @@
         },
         {
           "uid": "cs8",
+          "id": "cs8",
           "created": "2025-03-01T10:00:00Z",
           "updated": null,
           "header": "Kapcsolódó kérdés",
